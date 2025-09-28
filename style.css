@@ -1,0 +1,9 @@
+body { font-family: serif; max-width: 600px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; }
+header { text-align: center; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+h1, h2 { font-family: sans-serif; }
+a { color: #060; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.date { color: #666; font-size: 0.9em; }
+nav { font-size: 0.9em; }
+footer { text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee; font-size: 0.8em; color: #999; }
+@media (max-width: 600px) { body { padding: 10px; } }

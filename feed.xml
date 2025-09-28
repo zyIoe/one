@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>我的博客</title>
+        <link>https://yourdomain.com</link>
+        <description>极简个人博客</description>
+        <item>
+            <title>第一篇文章：欢迎来到我的博客</title>
+            <link>https://yourdomain.com/post1.html</link>
+            <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
+            <description>这是一个极简博客的开始...</description>
+        </item>
+        <!-- 添加更多item -->
+    </channel>
+</rss>
